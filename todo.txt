@@ -1,0 +1,7 @@
+
+Testnet Todo:
+ [ ] submit govobj
+ [ ] vote to fund govobj
+ [ ] create superblock
+ [ ] manually vote to fund superblock
+ [ ] execute superblock against testnet 
